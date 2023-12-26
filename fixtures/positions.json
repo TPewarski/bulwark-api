@@ -1,0 +1,20 @@
+[
+  {
+    "type": "etf",
+    "ticker": "SCHO",
+    "amount": 10,
+    "portfolio_id": "123"
+  },
+  {
+    "type": "equity",
+    "ticker": "KTOS",
+    "amount": 10,
+    "portfolio_id": "123"
+  },
+  {
+    "type": "equity",
+    "ticker": "AAPL",
+    "amount": 10,
+    "portfolio_id": "124"
+  }
+]
